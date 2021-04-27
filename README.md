@@ -7,7 +7,7 @@
 ## English
 - 👋 Hi, I’m Soushi!
 - 👀 I’m interested in Animes and video games.
-- 🌱 I’m currently learning English. So I can use English a little.
+- 🌱 I’m currently learning English, so I can use English a little.
 - 📫 If you want to contact me, please send a DM to [my Twitter][my-twitter-link]. However, the language is Japanese only. sorry...
 
 [my-twitter-link]:https://twitter.com/soukun_work
