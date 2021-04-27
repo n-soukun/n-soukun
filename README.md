@@ -1,10 +1,10 @@
-##日本語
+## 日本語
 - 👋 こんにちは、そうくんです！
 - 👀 趣味：アニメ・ゲームなどなど
 - 🌱 最近勉強してること：英語
 - 📫 連絡は[Twitter][my-twitter-link]のDMへお願いします！
 
-##English
+## English
 - 👋 Hi, I’m Soushi!
 - 👀 I’m interested in Animes and video games.
 - 🌱 I’m currently learning English. So I can use English a little.
