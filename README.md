@@ -5,7 +5,7 @@
 - 📫 連絡は[Twitter][my-twitter-link]のDMへお願いします！
 
 ## English
-- 👋 Hi, I’m Soushi!
+- 👋 Hi, I’m Soukun!
 - 👀 I’m interested in Animes and video games.
 - 🌱 I’m currently learning English, so I can use English a little.
 - 📫 If you want to contact me, please send a DM to [my Twitter][my-twitter-link]. However, the language is Japanese only. sorry...
