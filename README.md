@@ -1,4 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-soukun&exclude_repo=openjtalk.js)](https://github.com/anuraghazra/github-readme-stats)
 ## 自己紹介
 - 👋 こんにちは、そうくんです！
 - 👀 趣味：アニメ・ゲームなどなど
