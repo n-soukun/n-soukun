@@ -5,6 +5,9 @@
 - 📫 If you want to contact me, please send a DM to [my Twitter][my-twitter-link]. However, the language is Japanese only. sorry...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-soukun&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-soukun)](https://github.com/anuraghazra/github-readme-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=n-soukun)](https://github.com/ryo-ma/github-profile-trophy)
 
 [my-twitter-link]:https://twitter.com/soukun_work
