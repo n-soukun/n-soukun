@@ -1,3 +1,4 @@
+<a href="https://twitter.com/soukun_work" target="_blank"><img src="https://img.shields.io/badge/Twitter-%40soukun__work-white?logo=x"></a>
 [![wakatime](https://wakatime.com/badge/user/018b5b12-2a01-4d10-a8c3-bfa3a8e6471e.svg)](https://wakatime.com/@018b5b12-2a01-4d10-a8c3-bfa3a8e6471e)
 
 **About Me**
