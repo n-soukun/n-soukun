@@ -38,7 +38,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=n-soukun)](https://github.com/ryo-ma/github-profile-trophy)
 
-[my-twitter-link]:[https://twitter.com/soukun_work](https://x.com/z70933)
+[my-twitter-link]:https://x.com/z70933
 <!---
 n-soukun/n-soukun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
